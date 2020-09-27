@@ -28,4 +28,4 @@ In addition, the background of the page will update with a blurred-version of th
 
 
  # Screenshots
- 
+![Example with the book "Linchpin"](https://raw.githubusercontent.com/ismaban/tbdb/master/public/screenshot.png "This is a sample image.")
